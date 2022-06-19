@@ -1,0 +1,63 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #1D1E26;
+}
+header {
+    background-color: #363745;
+    padding: 15px;
+}
+.main-tittle{
+    color: white;
+    text-decoration: none;
+    margin-left: 5%;
+    font-size: 20;
+}
+.my-works-header{
+    color: white;
+    text-decoration: none;
+    float: right;
+    margin-right: 5%;
+    font-size: 20;
+}
+.contacts{
+    color: white;
+    text-decoration: none;
+    float: right;
+    margin-right: 3%;
+    font-size: 20;
+}
+
+.name {
+    color: white;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 60;
+}
+
+
+.fe {
+    color: white;
+    font-size: 30;
+    margin-left: 10%;
+    margin-bottom: 3%;
+}
+
+.info {
+    color: white;
+    font-size: 30;
+    margin-left: 10%;
+}
+
+.onmain {
+    text-decoration: none;
+    color: white;
+    margin-left: 10%;
+    background-color: #EB7550;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    margin-right: 3%;
+    font-size: 25;
+}
